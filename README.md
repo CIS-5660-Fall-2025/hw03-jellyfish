@@ -2,7 +2,7 @@
 
 ## Video
 
-![Link](https://youtu.be/20WekSf58es)
+[Link](https://youtu.be/20WekSf58es)
 
 ## Image
 
@@ -39,5 +39,6 @@ Organs are simplied modeled by sweep a curve with a circle.
 ### Tentacles
 
 To get the tentacles, I draw the lines first. Then, point the line to a group of target vertices and finally adding hair simulation to them.
+
 
 
